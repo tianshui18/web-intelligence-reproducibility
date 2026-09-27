@@ -24,6 +24,3 @@ The scripts write additional diagnostic plates to `figures_revision/` and tables
 
 This is a publication-level package. It does not contain API credentials, raw model responses, retrieved web passages, licensed benchmark images, or the original experiment result tree. Consequently, it supports inspection of the reported aggregates and regeneration of the included diagnostic plots, but not rerunning model calls or recomputing all aggregates from raw responses. Some analyses require third-party benchmark assets and service access. No human validation is claimed for the automatic semantic audit.
 
-## License
-
-No reuse license is granted here. The author should add an employer-approved code license and an appropriate data license before public release. Third-party inputs remain subject to their original terms.
